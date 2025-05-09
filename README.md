@@ -1,5 +1,8 @@
 # Chamadas-Bloqueadas
 
+![Uploading image.png…]()
+
+
 📊 Análise Preditiva de Chamadas Bloqueadas: Uma Abordagem Estratégica
 🎯 Objetivo
 Desenvolver uma solução de análise e previsão para chamadas bloqueadas por operadoras de telecomunicação entre 2022 e 2024, com foco em entender padrões de comportamento, identificar áreas de maior risco e propor medidas preventivas.
