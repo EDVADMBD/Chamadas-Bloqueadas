@@ -1,6 +1,7 @@
 # Chamadas-Bloqueadas
 
-![Uploading image.png…]()
+![Captura de tela 2025-05-09 171618](https://github.com/user-attachments/assets/c0c33f0f-4f0c-4b32-9c94-f84bbc352c83)
+
 
 
 📊 Análise Preditiva de Chamadas Bloqueadas: Uma Abordagem Estratégica
