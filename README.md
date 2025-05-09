@@ -58,4 +58,5 @@ Desenvolver estratégias de comunicação específicas para perfis como idosos, 
 O modelo preditivo e o sistema de categorização de risco permitem uma abordagem inteligente, preventiva e baseada em dados, oferecendo subsídios estratégicos para tomada de decisão e proteção do consumidor.
 
 veja o projeto aqui:
+https://github.com/EDVADMBD/Chamadas-Bloqueadas/blob/main/robocall.ipynb
 
